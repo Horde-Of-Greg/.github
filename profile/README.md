@@ -2,7 +2,7 @@
 <h1 align="center">Horde Of Greg</h1>
 
 ## Who are we?
-We're just a small community of experienced GregTech (a mod for Minecraft) players, mostly GTCEu, that decided to start contributing to the community by making mods and modpacks.
+We're just a small community of experienced GregTech (a mod for Minecraft) players, mostly GTCEu, that decided to start contributing to the community by making mods and modpacks. We have about 30 members, with around 10 of them contributing or on their way to contribute to this Project. All of this is still new so don't expect everything to work quite yet
 
 ## Our Projects
 <p align="center"><img src="https://github.com/Horde-Of-Greg/.github/blob/main/assets/images/ZBGT-logo.png?raw=true" alt="ZBGT Logo" width="192"></p>
