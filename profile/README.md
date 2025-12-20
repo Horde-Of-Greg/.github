@@ -12,6 +12,12 @@ A fork of Nomifactory, no alpha releases yet, we have just started development. 
 
 Maintained by the [HOGi team](https://github.com/orgs/Horde-Of-Greg/teams/hogi-team)
 
+<h2 align="center"><a href="https://github.com/Horde-Of-Greg/Elsa">Elsa</a></h2>
+
+A discord bot to build and share community resources. Users can create tags, which are either text storage or JS/TS scripts. Comes with very granular permissions and overrides to make sure it is able to fit the needs of any server. Built in TS, with Postgres and Redis for scalibility.  
+
+Maintained by [Elsa Team](https://github.com/orgs/Horde-Of-Greg/teams/elsa-team)
+
 <h2 align="center"><a href="https://github.com/Horde-Of-Greg/HOG-API">HOG API</a></h2>
 
 An API to serve both as an access point to all our tools (control panel, future website, our discord) and to serve as utility for various projects related to GT. Example of the latter is a parser for ore dictionnary filters to parse them into asts, match them to items, or even generate a filter based on items. This project is very much still a WIP. The current scope is unknown.
