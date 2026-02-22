@@ -12,6 +12,7 @@ A fork of Nomifactory, no alpha releases yet, we have just started development. 
 
 Maintained by the [HOGi team](https://github.com/orgs/Horde-Of-Greg/teams/hogi-team)
 
+<p align="center"><img src="https://github.com/Horde-Of-Greg/Branding/blob/master/Elsa/elsa-main-square.png" alt="Elsa Avatar" height="256"></p>
 <h2 align="center"><a href="https://github.com/Horde-Of-Greg/Elsa">Elsa</a></h2>
 
 A discord bot to build and share community resources. Users can create tags, which are either text storage or JS/TS scripts. Comes with very granular permissions and overrides to make sure it is able to fit the needs of any server. Built in TS, with Postgres and Redis for scalibility.  
